@@ -1,2 +1,2 @@
 # maven-Pipeline
-Testing Jenkins auto-trigger
+Testing Jenkins auto-trigger automatically
